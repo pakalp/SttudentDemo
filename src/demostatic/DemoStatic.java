@@ -1,5 +1,5 @@
 package demostatic;
-
+//property of Kalp Patel
 import Content.TheStatic;
 
 public class DemoStatic {
